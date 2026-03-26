@@ -36,7 +36,7 @@ If this policy changes in a meaningful way — for example if analytics or ads a
 
 ## Contact
 
-Questions? Reach out at antogs99@gmail.com
+Questions? Reach out at flashback.history.app@gmail.com
 
 ---
 
