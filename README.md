@@ -24,11 +24,10 @@ Flashback stores two things locally on your device using iOS standard storage: w
 
 ## Third Parties
 
-Flashback uses Firebase Analytics (Google) to collect anonymous usage data 
-such as which cards are viewed and how the app is used. This data is 
-anonymous and cannot be used to identify you personally. No data is sold 
-or shared with third parties for advertising purposes. You can review 
-Google's privacy policy at policies.google.com/privacy.
+Flashback uses the following third-party services:
+Firebase Analytics (Google) — collects anonymous usage data such as which cards are viewed and how the app is used. This data is anonymous and cannot be used to identify you personally.
+Google AdMob — displays ads within the app. AdMob may collect device identifiers and usage data to serve relevant ads. This data is handled by Google in accordance with their privacy policy. No data is sold or shared with third parties beyond what is required for ad serving.
+You can review Google's privacy policy at policies.google.com/privacy.
 
 ## Children
 
